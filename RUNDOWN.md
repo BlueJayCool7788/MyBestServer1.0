@@ -14,6 +14,6 @@ Used With https://httpd.apache.org
 
 
 
-COPYED WITH PERMISSTION ON GITHUB 
+COPYED WITH PERMISSTION FROM @Bluejay666 FROM REPL.IT
 
 ©️MyBest 2021-2023
